@@ -40,11 +40,13 @@ Using nUnit and Moq to mock commands,queries and repositories
 
 **Timelogger Client (UI)**
 UI application.
+
 React based with typescript.
-api/ - API requests (post/get)
-components/ - react components definition (mostly tables)
-models/ - models to be used in the UI
-views/ - UI views, makes use of react components
+
+- api/ - API requests (post/get)
+- components/ - react components definition (mostly tables)
+- models/ - models to be used in the UI
+- views/ - UI views, makes use of react components
 
 Index page requires a contributor number (id). This aims to emulate a login/authorization/authentication mechanism.
 Information is stored in the localStorage.
