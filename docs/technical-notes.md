@@ -64,4 +64,4 @@ A final version should get rid of this approach and implement a proper authoriza
 - [ ] UI logins / user management  
   
 ## Demo  
-Tutorial/demo, please go to -->  [Demo](/demo.md)
+Tutorial/demo, please go to -->  [Demo](/docs/demo.md)

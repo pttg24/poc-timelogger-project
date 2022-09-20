@@ -30,6 +30,7 @@ Individual time registrations should be 30 minutes or longer, and once a project
 * Tailwind
 
 Technical decisions, further developments, conclusions, please go to --> [TechNotes](/docs/technical-notes.md)
+
 Tutorial/demo, please go to -->  [Demo](/docs/demo.md)
 
 ## How to Run
